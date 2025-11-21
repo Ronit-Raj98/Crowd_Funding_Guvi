@@ -15,18 +15,21 @@ Advanced Security and Transparency: Built with robust Java backend and secure au
 Full-Stack Java Implementation: The platform is built using Java for backend logic (Spring Boot/Servlets/JSP), SQL for data management, and HTML, CSS, JavaScript for a modern, responsive frontend
 
 ## User Functionalities
--**Register**: Users can create accounts to start or support campaigns.
--**Login**: Access and manage profiles securely.
--**Create Campaign**: Users can launch new crowdfunding campaigns with goals, deadlines, and descriptions.
--**Contribute to Campaigns**: Users can fund active campaigns by making secure donations.
--**View Contributions**: Users can track their donations and campaign support history.
+
+- **Register**: Users can create accounts to start or support campaigns.
+- **Login**: Access and manage profiles securely.
+- **Create Campaign**: Users can launch new crowdfunding campaigns with goals, deadlines, and descriptions.
+- **Contribute to Campaigns**: Users can fund active campaigns by making secure donations.
+- **View Contributions**: Users can track their donations and campaign support history.
 
 ## Campaign Creator Functionalities
+
 -**Manage Campaigns**: Create, update, and close campaigns.
 -**Track Funding Status**: View real-time progress toward funding goals.
 -**Communicate with Backers**: Post updates and messages to campaign supporters.
 
 ## Admin Functionalities
+
 -**User Management**: Add, edit, or delete user accounts (including campaign creators and contributors).
 -**Campaign Oversight**: Monitor and manage all campaigns and contributions.
 -**System Settings**: Configure roles, permissions, and platform settings.
@@ -34,6 +37,7 @@ Full-Stack Java Implementation: The platform is built using Java for backend log
 
 
 ## Technology Stack
+
 -**Backend**: Java, Spring Boot, JDBC
 -**Frontend**: HTML, CSS, JavaScript
 -**Database**: MySQL
@@ -43,6 +47,7 @@ Full-Stack Java Implementation: The platform is built using Java for backend log
 -JDBC (database connectivity and operations)
 
 ## Prerequisites
+
 -**Java Development Kit (JDK)**: Version 11 or later
 -**Maven**: Dependency management
 -**MySQL**: Database management system
