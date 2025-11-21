@@ -24,35 +24,36 @@ Full-Stack Java Implementation: The platform is built using Java for backend log
 
 ## Campaign Creator Functionalities
 
--**Manage Campaigns**: Create, update, and close campaigns.
--**Track Funding Status**: View real-time progress toward funding goals.
--**Communicate with Backers**: Post updates and messages to campaign supporters.
+- **Manage Campaigns**: Create, update, and close campaigns.
+- **Track Funding Status**: View real-time progress toward funding goals.
+- **Communicate with Backers**: Post updates and messages to campaign supporters.
 
 ## Admin Functionalities
 
--**User Management**: Add, edit, or delete user accounts (including campaign creators and contributors).
--**Campaign Oversight**: Monitor and manage all campaigns and contributions.
--**System Settings**: Configure roles, permissions, and platform settings.
--**Security**: Ensure data protection with encryption, authentication, and authorization.
+- **User Management**: Add, edit, or delete user accounts (including campaign creators and contributors).
+- **Campaign Oversight**: Monitor and manage all campaigns and contributions.
+- **System Settings**: Configure roles, permissions, and platform settings.
+- **Security**: Ensure data protection with encryption, authentication, and authorization.
 
 
 ## Technology Stack
 
--**Backend**: Java, Spring Boot, JDBC
--**Frontend**: HTML, CSS, JavaScript
--**Database**: MySQL
+- **Backend**: Java, Spring Boot, JDBC
+- **Frontend**: HTML, CSS, JavaScript
+- **Database**: MySQL
 
 ## Tools & Libraries:
--Spring Security (authentication and authorization)
--JDBC (database connectivity and operations)
+
+- Spring Security (authentication and authorization)
+- JDBC (database connectivity and operations)
 
 ## Prerequisites
 
--**Java Development Kit (JDK)**: Version 11 or later
--**Maven**: Dependency management
--**MySQL**: Database management system
--**IDE**: IntelliJ IDEA or Eclipse recommended
--**Git**: Version control system
+- **Java Development Kit (JDK)**: Version 11 or later
+- **Maven**: Dependency management
+- **MySQL**: Database management system
+- **IDE**: IntelliJ IDEA or Eclipse recommended
+- **Git**: Version control system
 
 ## Impact
 Harnessing the power of collective support, this crowdfunding platform nurtures a culture of giving, collaboration, and empowerment. By combining secure technology with a user-focused experience, it inspires individuals and communities to innovate and drive meaningful change in society
